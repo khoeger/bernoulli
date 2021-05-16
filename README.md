@@ -8,7 +8,7 @@ The Bernoulli(*p*) distribution is used to model a coin toss  or any other singl
 
 In this depiction, each pixel represents the opportunity for success or failure. I represent success by placing a dark pixel.
 
-There are different variations in the code. 
+There are different variations in the code.
 ## Learn More About the Bernoulli distribution
 
 ### My source
@@ -17,3 +17,12 @@ Leemis, Lawrence M. *Probability*. Williamsburg, VA, USA: , 2011.
 Full disclosure, Professor Leemis was my professor when I was  a Computational Operations Research MS student at William & Mary, and this book was our course book. It was not officially published at the time.
 
 ### Other reputable sources
+
+## Other interesting, potentially relevant info
+Others contributed to my knowledge.
+I will learn more as I go
+### I-Ching
+#### John Cage and I-Ching work
+####for Supercollider
+[loopier/iching](https://github.com/loopier/iching)
+### Mach Bands
